@@ -8,7 +8,7 @@ import ReactPlayer from "react-player";
 const API_URL =
   "https://api-inference.huggingface.co/models/espnet/kan-bayashi_ljspeech_vits";
 const headers = {
-  Authorization: "Bearer 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",
+  Authorization: "Bearer YOUR API KEY",
 };
 
 export default function TTSPage() {
