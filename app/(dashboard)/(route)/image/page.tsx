@@ -14,7 +14,7 @@ export default function Home() {
         "https://api-inference.huggingface.co/models/segmind/SSD-1B",
         {
           headers: {
-            Authorization: "Bearer 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",
+            Authorization: "Bearer YOUR API KEY",
           },
           method: "POST",
           body: JSON.stringify({
