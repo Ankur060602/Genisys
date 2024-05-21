@@ -7,7 +7,7 @@ import ReactPlayer from "react-player";
 const API_URL =
   "https://api-inference.huggingface.co/models/espnet/fastspeech2_conformer";
 const headers = {
-  Authorization: "Bearer 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",
+  Authorization: "Bearer YOUR API KEY",
 };
 
 export default function TTSPage() {
